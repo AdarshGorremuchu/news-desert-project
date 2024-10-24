@@ -1,0 +1,224 @@
+Nauvoo: 9
+Tuscaloosa: 11977
+Greensboro: 92
+Phenix City: 29
+Brookwood: 123
+Northport: 1089
+Pell City: 8
+Montgomery: 2213
+West Blocton: 33
+Louisville: 22
+York: 10
+Huntsville: 260
+Mobile: 247
+Birmingham: 1319
+Fayette: 58
+Dora: 22
+Carrollton: 38
+Parrish: 31
+Moundville: 127
+Aliceville: 83
+Newbern: 6
+Fosters: 39
+Talladega: 16
+Butler: 10
+Berry: 16
+Selma: 125
+Trussville: 27
+Florence: 64
+Coker: 20
+Columbiana: 13
+Jasper: 149
+Atmore: 40
+Millport: 5
+Eutaw: 132
+Boligee: 5
+Gadsden: 42
+Athens: 76
+Demopolis: 74
+Hamilton: 13
+Bexar: 2
+Jemison: 3
+Oakman: 10
+Gordo: 85
+Cordova: 12
+Alberta: 22
+Carbon Hill: 33
+Valley: 3
+Cullman: 55
+Jackson: 146
+Leesburg: 1
+Columbia: 31
+Decatur: 96
+Haleyville: 7
+Vernon: 6
+Sylacauga: 7
+Madison: 30
+Tuskegee: 23
+Fairhope: 15
+Dadeville: 26
+Thomasville: 8
+Eufaula: 9
+Greenville: 13
+Livingston: 25
+Guin: 6
+Hoover: 98
+Thomaston: 2
+Ashland: 5
+Troy: 27
+Alexander City: 14
+Hackleburg: 5
+Prattville: 30
+Reform: 26
+Hanceville: 7
+Scottsboro: 20
+Sweet Water: 1
+Moody: 8
+Uniontown: 6
+Smiths Station: 3
+Wadley: 2
+Fort Deposit: 2
+Anniston: 19
+Sulligent: 8
+Salem: 20
+Orrville: 2
+Jacksonville: 46
+Winfield: 8
+Dothan: 66
+Warrior: 6
+Elmore: 8
+Pine Hill: 1
+Hayneville: 15
+Enterprise: 8
+Marion: 28
+Clay: 5
+Sawyerville: 26
+Clanton: 15
+Ozark: 23
+Linden: 7
+Montevallo: 13
+Red Bay: 2
+Wetumpka: 20
+Leeds: 6
+Coffeeville: 1
+Cleveland: 13
+Fort Payne: 9
+Citronelle: 2
+Killen: 2
+Maplesville: 7
+Douglas: 3
+Danville: 4
+Gainesville: 17
+Hayden: 2
+Falkville: 3
+Samantha: 9
+Hartselle: 10
+Daphne: 5
+Theodore: 2
+Guntersville: 6
+Somerville: 1
+Holly Pond: 1
+Geneva: 8
+Childersburg: 5
+Waterloo: 3
+Princeton: 1
+Hartford: 9
+Calera: 5
+Camp Hill: 3
+Brooksville: 1
+Samson: 2
+Springville: 7
+Camden: 6
+Bridgeport: 2
+Townley: 3
+Andalusia: 6
+Empire: 6
+Union Springs: 3
+Lanett: 1
+Ethelsville: 5
+Oneonta: 7
+Bay Minette: 9
+Flomaton: 2
+Foley: 6
+Madrid: 2
+Brewton: 2
+Luverne: 3
+Beulah: 8
+Fort Rucker: 3
+Rockford: 1
+Moulton: 11
+Russellville: 9
+Grant: 1
+Double Springs: 2
+Altoona: 1
+Bear Creek: 3
+Oakland: 3
+Semmes: 2
+Grand Bay: 4
+Inverness: 2
+Clayton: 5
+Eva: 1
+Munford: 2
+Brantley: 1
+Vinemont: 1
+Woodland: 2
+Collinsville: 1
+Opp: 3
+Wedowee: 2
+Blountsville: 3
+Notasulga: 1
+Chelsea: 2
+Monroeville: 2
+New Hope: 1
+Gordon: 2
+Brundidge: 1
+Abbeville: 3
+Chatom: 6
+Pike Road: 1
+Bremen: 1
+Locust Fork: 1
+Gardendale: 3
+Daleville: 2
+Sardis: 1
+McIntosh: 1
+Vina: 1
+Sipsey: 6
+Arab: 3
+Hope Hull: 3
+Hillsboro: 1
+Robertsdale: 2
+Elba: 2
+Manchester: 5
+Eclectic: 1
+West Jefferson: 1
+Deatsville: 1
+Lexington: 11
+Lincoln: 2
+Rogersville: 2
+Florala: 2
+Hokes Bluff: 1
+Ohatchee: 1
+Brookside: 2
+Phil Campbell: 3
+Union Grove: 2
+Heflin: 2
+Cuba: 3
+Castleberry: 1
+Stevenson: 1
+Centre: 7
+Henagar: 1
+Titus: 1
+New Market: 1
+Geraldine: 1
+Mooresville: 1
+Greenwood: 4
+Ider: 1
+Grove Hill: 1
+Stockton: 1
+Piedmont: 2
+Evergreen: 2
+Verbena: 1
+Mount Vernon: 1
+Vincent: 1
+Tallassee: 1
+Bakerhill: 1

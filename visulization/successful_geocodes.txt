@@ -1,0 +1,289 @@
+Nauvoo, Alabama: 33.9895503, -87.4889033
+Walker County, Alabama: 33.8563605, -87.30161319999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Greensboro, Alabama: 32.7045753, -87.59583959999999
+Sawyerville, Alabama: 32.7517973, -87.72945469999999
+Akron, Alabama: 32.8765165, -87.7425105
+Moundville, Alabama: 32.9976242, -87.6300075
+Hale County, Alabama: 32.7859102, -87.6186379
+Auburn, Alabama: 32.6098566, -85.48078249999999
+Central-Phenix City, Alabama: 32.4853154, -85.03919119999999
+Alabama, Alabama: 32.3182314, -86.902298
+Oklahoma, Oklahoma: 35.0077519, -97.092877
+Brookwood, Alabama: 33.2556719, -87.3208336
+Hoover, Alabama: 33.4053867, -86.8113781
+West Alabama, Alabama: 33.2570618, -85.41661719999999
+Nauvoo, Alabama: 33.9895503, -87.4889033
+Bessemer, Alabama: 33.4017766, -86.954437
+Trussville, Alabama: 33.6198251, -86.60887559999999
+Vestavia Hills, Alabama: 33.4487183, -86.7877668
+Alabaster, Alabama: 33.2442813, -86.8163773
+Hoover, Alabama: 33.4053867, -86.8113781
+Homewood, Alabama: 33.4717732, -86.80082279999999
+Madison, Alabama: 34.6992579, -86.74833180000002
+Athens, Alabama: 34.8028661, -86.9716741
+Decatur, Alabama: 34.6059253, -86.9833417
+Selma, Alabama: 32.4073589, -87.02110069999999
+Prichard, Alabama: 30.74515449999999, -88.0896618
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Cottondale, Alabama: 33.189202, -87.4565956
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Saraland, Alabama: 30.820742, -88.07055559999999
+Mobile, Alabama: 30.6953657, -88.0398912
+Greensboro, Alabama: 32.7045753, -87.59583959999999
+Hale County, Alabama: 32.7859102, -87.6186379
+Lake View, Alabama: 33.2806703, -87.13749589999999
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Macon, Alabama: 32.3731182, -85.684578
+Russell, Alabama: 32.3552497, -85.1894045
+Elmore, Alabama: 32.5387448, -86.3149712
+Autauga, Alabama: 32.4340249, -86.65470189999999
+Chilton, Alabama: 32.944392, -86.6611083
+Shelby, Alabama: 33.1086539, -86.5835907
+Dallas, Alabama: 32.2332138, -87.14228949999999
+Perry, Alabama: 32.598888, -87.30161319999999
+Bibb, Alabama: 32.9562798, -87.14228949999999
+Fayette, Alabama: 33.6845539, -87.8308522
+Greene, Alabama: 32.9718107, -87.9334803
+Hale, Alabama: 32.7859102, -87.6186379
+Pickens, Alabama: 33.3339954, -88.0900762
+Lamar, Alabama: 33.6923649, -88.0900762
+Sumter, Alabama: 32.6155551, -88.24611829999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Cullman, Alabama: 34.1748208, -86.8436124
+Lawrence, Alabama: 34.567428, -87.30161319999999
+Morgan, Alabama: 34.4240875, -86.86218269999999
+Marion, Alabama: 32.6323536, -87.3191655
+Walker, Alabama: 33.8563605, -87.30161319999999
+Winston, Alabama: 34.1690087, -87.3413599
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Shelton, Alabama: 32.3182314, -86.902298
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Pell City, Alabama: 33.5862149, -86.2860888
+Greensboro, Alabama: 32.7045753, -87.59583959999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Parrish, Alabama: 33.7306642, -87.2844473
+Eutaw, Alabama: 32.8406848, -87.8875145
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Montgomery, Alabama: 32.3792233, -86.3077368
+Montgomery, Alabama: 32.3792233, -86.3077368
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Cottondale, Alabama: 33.189202, -87.4565956
+West Blocton, Alabama: 33.1181748, -87.1249954
+Bibb County, Alabama: 32.9562798, -87.14228949999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Louisville, Kentucky: 38.2468618, -85.7663724
+Birmingham, Alabama: 33.5185892, -86.8103567
+Alabama, Alabama: 32.3182314, -86.902298
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+York, Alabama: 32.4862491, -88.29641830000001
+Sumter County, Alabama: 32.6155551, -88.24611829999999
+Huntsville, Alabama: 34.7303688, -86.5861037
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Oklahoma City, Oklahoma: 35.4675602, -97.5164276
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Demopolis, Alabama: 32.5176361, -87.83640199999999
+Fayette, Alabama: 33.6845539, -87.8308522
+Carrollton, Alabama: 33.2617871, -88.0950263
+Livingston, Alabama: 32.5843025, -88.1872475
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Dallas, Texas: 32.7766642, -96.79698789999999
+Alabama, Alabama: 32.3182314, -86.902298
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Centreville, Alabama: 32.9445682, -87.1386067
+West Blocton, Alabama: 33.1181748, -87.1249954
+Bibb County, Alabama: 32.9562798, -87.14228949999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Norman, Oklahoma: 35.2225668, -97.4394777
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Mobile, Alabama: 30.6953657, -88.0398912
+Mississippi, Alabama: 32.3182314, -86.902298
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Auburn, Alabama: 32.6098566, -85.48078249999999
+Brundidge, Alabama: 31.7201615, -85.81605669999999
+Enterprise, Alabama: 31.3151708, -85.85521609999999
+Fort Payne, Alabama: 34.4442547, -85.7196893
+Coosa County, Alabama: 32.9305115, -86.17517590000001
+Walker County, Alabama: 33.8563605, -87.30161319999999
+Greene County, Alabama: 32.9718107, -87.9334803
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Birmingham, Alabama: 33.5185892, -86.8103567
+Bessemer, Alabama: 33.4017766, -86.954437
+Cullman, Alabama: 34.1748208, -86.8436124
+Jasper, Alabama: 33.8312185, -87.2775053
+Oneonta, Alabama: 33.9481537, -86.472764
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Fayette, Alabama: 33.6845539, -87.8308522
+Fulton, Mississippi: 34.2739933, -88.40921329999999
+Dora, Alabama: 33.728717, -87.0902772
+Bessemer, Alabama: 33.4017766, -86.954437
+Jasper, Alabama: 33.8312185, -87.2775053
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Pickens County, Alabama: 33.3339954, -88.0900762
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Demopolis, Alabama: 32.5176361, -87.83640199999999
+Fayette, Alabama: 33.6845539, -87.8308522
+Carrollton, Alabama: 33.2617871, -88.0950263
+Livingston, Alabama: 32.5843025, -88.1872475
+Carrollton, Alabama: 33.2617871, -88.0950263
+Pickens County, Alabama: 33.3339954, -88.0900762
+Birmingham, Alabama: 33.5185892, -86.8103567
+Hope Hull, Alabama: 32.2695189, -86.3567376
+Dothan, Alabama: 31.2233594, -85.389326
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Montgomery, Alabama: 32.3792233, -86.3077368
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Norman, Oklahoma: 35.2225668, -97.4394777
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Montgomery, Alabama: 32.3792233, -86.3077368
+Greene County, Alabama: 32.9718107, -87.9334803
+Fayette, Alabama: 33.6845539, -87.8308522
+Hale County, Alabama: 32.7859102, -87.6186379
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Haleyville, Alabama: 34.226488, -87.6214133
+West Blocton, Alabama: 33.1181748, -87.1249954
+Bibb County, Alabama: 32.9562798, -87.14228949999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Atmore, Alabama: 31.0237921, -87.4938708
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Birmingham, Alabama: 33.5185892, -86.8103567
+Parrish, Alabama: 33.7306642, -87.2844473
+Jasper, Alabama: 33.8312185, -87.2775053
+Walker County, Alabama: 33.8563605, -87.30161319999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+DCH Regional Medical Center, Alabama: 32.3182314, -86.902298
+Moundville, Alabama: 32.9976242, -87.6300075
+Hale County, Alabama: 32.7859102, -87.6186379
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Fayette, Alabama: 33.6845539, -87.8308522
+Perry County, Alabama: 32.598888, -87.30161319999999
+Dallas County, Alabama: 32.2332138, -87.14228949999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Aliceville, Alabama: 33.1295681, -88.15141659999999
+Pickens County, Alabama: 33.3339954, -88.0900762
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Dallas, Texas: 32.7766642, -96.79698789999999
+Alabama, Alabama: 32.3182314, -86.902298
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Cherokee County, Alabama: 34.1665322, -85.684578
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Brookwood, Alabama: 33.2556719, -87.3208336
+Choctaw County, Mississippi: 33.3914427, -89.28472510000002
+Denton, Texas: 33.2148412, -97.13306829999999
+Dallas, Texas: 32.7766642, -96.79698789999999
+Dallas, AL: 32.2332138, -87.14228949999999
+Greene, AL: 32.9718107, -87.9334803
+Hale, AL: 32.7859102, -87.6186379
+Sumter, AL: 32.6155551, -88.24611829999999
+Bibb, AL: 32.9562798, -87.14228949999999
+Choctaw, AL: 32.0716631, -88.24611829999999
+Fayette, AL: 33.6845539, -87.8308522
+Lamar, AL: 33.6923649, -88.0900762
+Perry, AL: 32.598888, -87.30161319999999
+Tuscaloosa, AL: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Shelton, Alabama: 32.3182314, -86.902298
+Moundville, Alabama: 32.9976242, -87.6300075
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Mobile, Alabama: 30.6953657, -88.0398912
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Baton Rouge, Louisiana: 30.4514677, -91.18714659999999
+Gainesville, Florida: 29.6519563, -82.324998
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Milwaukee, Wisconsin: 43.0389025, -87.9064736
+Pennsylvania, Pennsylvania: 41.2033216, -77.1945247
+Alabama, Alabama: 32.3182314, -86.902298
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Newbern, Alabama: 32.5931884, -87.5327815
+Perry County, Alabama: 32.598888, -87.30161319999999
+Dallas County, Alabama: 32.2332138, -87.14228949999999
+Northport, Alabama: 33.229007, -87.5772293
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Vance, Alabama: 33.1742847, -87.23360919999999
+Eutaw, Alabama: 32.8406848, -87.8875145
+Jackson, Alabama: 31.5090521, -87.8944435
+Brookhaven, Mississippi: 31.5790588, -90.4406506
+Meridian, Mississippi: 32.3643098, -88.703656
+Tougaloo, Mississippi: 32.3984904, -90.15652089999999
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Auburn, Alabama: 32.6098566, -85.48078249999999
+Maryville, Tennessee: 35.7564719, -83.9704593
+Northport, Alabama: 33.229007, -87.5772293
+Houston, Texas: 29.7600771, -95.37011079999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Philadelphia, Pennsylvania: 39.9525839, -75.1652215
+Detroit, Michigan: 42.331427, -83.0457538
+Arlington, Texas: 32.735687, -97.10806559999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Northport, Alabama: 33.229007, -87.5772293
+Fosters, AL: 33.0948441, -87.68584279999999
+Talladega, Alabama: 33.4359416, -86.1058048
+Indian Hills, AL: 33.230118, -87.5433393
+Butler, Pennsylvania: 40.8611755, -79.89533279999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Birmingham, Alabama: 33.5185892, -86.8103567
+Montgomery, Alabama: 32.3792233, -86.3077368
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Pickens County, Alabama: 33.3339954, -88.0900762
+Lamar, Alabama: 33.6923649, -88.0900762
+Fayette, Alabama: 33.6845539, -87.8308522
+Walker County, Alabama: 33.8563605, -87.30161319999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Northport, Alabama: 33.229007, -87.5772293
+Tuscaloosa County, Alabama: 33.3227653, -87.460397
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Tuscaloosa, Alabama: 33.2098407, -87.56917349999999
+Fosters, Alabama: 33.0948441, -87.68584279999999
+Cottondale, Alabama: 33.189202, -87.4565956
